@@ -1,0 +1,37 @@
+
+h4{
+	margin-top: 20px;
+	/*
+	margin-bottom: 30px;*/
+	text-align: center;
+}
+.box{
+	height: 100px;
+	background-color: red;
+	border: 1px solid;
+}
+.box1{
+	height: 100px;
+	
+}
+.box2{
+	height: 100px;
+	background-color: gray;
+	border: 1px solid beige;
+
+}
+.about{
+	clear: both;
+	margin-top: 20px;
+}
+.aboutus{
+	clear: both;
+	margin-top: 20px;
+}
+.test{
+	clear: both;
+	margin-top: 20px;
+}
+.space{
+	height: 50px;
+}
